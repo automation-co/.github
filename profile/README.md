@@ -2,4 +2,4 @@
 
 # Build Awesome
 
-check out our [open source projects](automation-co/open-source).
+check out our [open source projects](https://github.com/automation-co/open-source).
