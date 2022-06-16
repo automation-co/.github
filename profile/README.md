@@ -4,7 +4,7 @@
 
 check out our [open source projects](https://github.com/automation-co/open-source).
 
-## Launching automation-co rewards ( powered by aviyel )
+## Launching automation-co rewards ( powered by [aviyel](https://aviyel.com) )
  Contributed to automation-co? Here is a big thank you from our community to you.
  Claim your badge and showcase them with pride.
  Let us inspire more folks !
